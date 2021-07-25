@@ -1,4 +1,4 @@
-### Hi there 👋
+# 我什么也没干，什么都不知道 👋
 
 <!--
 **tobctobc/tobctobc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
